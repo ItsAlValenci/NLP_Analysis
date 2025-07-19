@@ -13,7 +13,7 @@ The project is organized into three main sections, each focusing on different as
 
 ## Sections Overview
 
-### 1. Exploration (`1-Exploration/`)
+### 1. Exploration
 
 This section demonstrates fundamental NLP techniques using TripAdvisor hotel reviews:
 
@@ -23,7 +23,7 @@ This section demonstrates fundamental NLP techniques using TripAdvisor hotel rev
 - Regular expressions for pattern matching
 - Basic text cleaning and normalization
 
-### 2. Text Tagging (`2-Text_tagging/`)
+### 2. Text Tagging
 
 This section explores more advanced NLP techniques using BBC news articles:
 
@@ -32,7 +32,7 @@ This section explores more advanced NLP techniques using BBC news articles:
 - Entity extraction and analysis
 - Text categorization
 
-### 3. Sentiment Analysis (`3-Sentiment_analysis/`)
+### 3. Sentiment Analysis
 
 This section focuses on sentiment analysis techniques using book reviews:
 
@@ -40,7 +40,7 @@ This section focuses on sentiment analysis techniques using book reviews:
 - Text classification by sentiment
 - Sentiment scoring and interpretation
 
-### 4. Fake News Classification (`Fake_news_classification/`)
+### 4. Fake News Classification
 
 Project applying multiple NLP techniques to classify news articles as fake or factual:
 
